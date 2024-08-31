@@ -1,4 +1,4 @@
-# VISMAI-Drug-Discovery-app---
+# VISMAI-Drug-Discovery-app
 
 Extended Virtual screening tool - VISMAI
 Repository link- https://github.com/MinorMist/VISMAI-Drug-Discovery-app.git
