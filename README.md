@@ -1,9 +1,11 @@
-# VISMAI-Drug-Discovery-app
+# VISMAI-Drug-Discovery-app---
+
 Extended Virtual screening tool - VISMAI
-Repo link- https://github.com/MinorMist/VISMAI-Drug-Discovery-app.git
+Repository link- https://github.com/MinorMist/VISMAI-Drug-Discovery-app.git
+
 Handled by Achyut M Sharma and Deepak Menon
-github.com/minormist github.com/DeepkMenon
------------------------------------------------
+
+github ID - [Achyut](https://github.com/minormist) [Deepak](https://github.com/Deepkmenon) 
 
 ## Steps to run the application---
 
